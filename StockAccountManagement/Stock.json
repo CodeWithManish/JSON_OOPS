@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Relience",
+    "NumOfShere":50,
+    "SherePrice": 200
+
+  },
+  {
+    "Name": "TCS",
+    "NumOfShere": 80,
+    "SherePrice": 100
+  },
+  {
+    "Name": "HDFC Bank",
+    "NumOfShere": 65,
+    "SherePrice": 150
+  },
+  {
+    "Name": "INFOSYS",
+    "NumOfShere": 45,
+    "SherePrice": 50
+  }
+]
