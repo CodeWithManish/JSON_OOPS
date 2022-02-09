@@ -8,11 +8,11 @@ namespace OOPS_Programming
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-
             InventoryManagement inventoryManagement = new InventoryManagement();
             inventoryManagement.ReadData(@"C:\Users\kmani\Downloads\DNetFolder\OOPS_Programming\OOPS_Programming\Inventory.json");
+            inventoryManagement.Write(@"C:\Users\kmani\Downloads\DNetFolder\OOPS_Programming\OOPS_Programming\Inventory.json");
             Console.ReadKey();
         }
     }

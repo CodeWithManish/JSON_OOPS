@@ -1,17 +1,1 @@
-[
-  {
-    "Name": "Rice",
-    "Price": 30,
-    "Weight": 10
-  },
-  {
-    "Name": "Wheat",
-    "Price": 25,
-    "Weight": 10
-  },
-  {
-    "Name": "Pulses",
-    "Price": 40,
-    "Weight": 10
-  }
-]
+{"RiceList":[{"Name":"Basmati Rice","Price":30,"Weight":10},{"Name":"Brown Rice","Price":25,"Weight":10},{"Name":"White Rice","Price":40,"Weight":10},{"Name":"Rice","Price":30,"Weight":10}],"WheatList":[{"Name":"Khapli Wheat","Price":30,"Weight":10},{"Name":"Sharbati Wheat","Price":25,"Weight":10},{"Name":"Durum Wheat","Price":40,"Weight":10},{"Name":"Wheat","Price":30,"Weight":10}],"PulsesList":[{"Name":"Arhar","Price":30,"Weight":10},{"Name":"Moong ","Price":25,"Weight":10},{"Name":"Red Gram","Price":40,"Weight":10},{"Name":"pulses","Price":30,"Weight":10}]}
